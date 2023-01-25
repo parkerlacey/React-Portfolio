@@ -45,6 +45,8 @@
 
 .skills h1 {
   color: #3e497a;
+  text-decoration: underline #3e497a 4px;
+  ;
 }
 
 .skills .list {
@@ -71,7 +73,7 @@
     text-align: center;
   }
   .list {
-    padding: 0;
+    padding: 5px;
   }
 
   .skills h2 {
