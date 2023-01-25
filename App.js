@@ -1,11 +1,11 @@
 import './App.css';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
-import Projects from './pages/Projects'
-import Experience from './pages/Experience'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
-import ProjectDisplay from './pages/ProjectDisplay';
+import Home from './src/pages/Home'
+import Projects from './src/pages/Projects'
+import Experience from './src/pages/Experience'
+import Navbar from './src/components/Navbar'
+import Footer from './src/components/Footer'
+import ProjectDisplay from './src/pages/ProjectDisplay';
 
 function App() {
   return (
