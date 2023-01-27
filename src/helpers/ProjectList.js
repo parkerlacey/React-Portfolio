@@ -1,7 +1,7 @@
 import Proj1 from "../assets/weatherdashboard.png";
 import Proj2 from "../assets/movienight.png";
-import Proj3 from "../assets/codequiz.png";
-import Proj4 from "../assets/password.png";
+import Proj3 from "../assets/Review.png";
+import Proj4 from "../assets/passwordgenerator.png";
 import Proj5 from "../assets/proj5.jpg";
 import Proj6 from "../assets/proj6.png";
 
@@ -17,7 +17,7 @@ export const ProjectList = [
     skills: "HTML, CSS, Javascript, BootStrapJS, OMDB API",
   },
   {
-    name: "Code Quiz",
+    name: "Re:view",
     image: Proj3,
     skills: "React, Node.js, HTML, CSS, Javascript",
   },
